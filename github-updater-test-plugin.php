@@ -4,7 +4,7 @@
  * Plugin Name: GitHub Updater Test plugin
  * Author: Coen Jacobs
  * Author URI: http://coenjacobs.me
- * Version: 0.2
+ * Version: 0.3
  */
 
 add_action( 'init', 'gh_updater_test_plugin' );
